@@ -1,0 +1,14 @@
+C:\Users\INVENT040\Desktop\Repositorios\Exercicios\FormulaBaskara\bin\Debug\net6.0\FormulaBaskara.exe
+C:\Users\INVENT040\Desktop\Repositorios\Exercicios\FormulaBaskara\bin\Debug\net6.0\FormulaBaskara.deps.json
+C:\Users\INVENT040\Desktop\Repositorios\Exercicios\FormulaBaskara\bin\Debug\net6.0\FormulaBaskara.runtimeconfig.json
+C:\Users\INVENT040\Desktop\Repositorios\Exercicios\FormulaBaskara\bin\Debug\net6.0\FormulaBaskara.dll
+C:\Users\INVENT040\Desktop\Repositorios\Exercicios\FormulaBaskara\bin\Debug\net6.0\FormulaBaskara.pdb
+C:\Users\INVENT040\Desktop\Repositorios\Exercicios\FormulaBaskara\obj\Debug\net6.0\FormulaBaskara.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\INVENT040\Desktop\Repositorios\Exercicios\FormulaBaskara\obj\Debug\net6.0\FormulaBaskara.AssemblyInfoInputs.cache
+C:\Users\INVENT040\Desktop\Repositorios\Exercicios\FormulaBaskara\obj\Debug\net6.0\FormulaBaskara.AssemblyInfo.cs
+C:\Users\INVENT040\Desktop\Repositorios\Exercicios\FormulaBaskara\obj\Debug\net6.0\FormulaBaskara.csproj.CoreCompileInputs.cache
+C:\Users\INVENT040\Desktop\Repositorios\Exercicios\FormulaBaskara\obj\Debug\net6.0\FormulaBaskara.dll
+C:\Users\INVENT040\Desktop\Repositorios\Exercicios\FormulaBaskara\obj\Debug\net6.0\refint\FormulaBaskara.dll
+C:\Users\INVENT040\Desktop\Repositorios\Exercicios\FormulaBaskara\obj\Debug\net6.0\FormulaBaskara.pdb
+C:\Users\INVENT040\Desktop\Repositorios\Exercicios\FormulaBaskara\obj\Debug\net6.0\FormulaBaskara.genruntimeconfig.cache
+C:\Users\INVENT040\Desktop\Repositorios\Exercicios\FormulaBaskara\obj\Debug\net6.0\ref\FormulaBaskara.dll
